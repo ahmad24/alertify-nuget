@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>alertify</id>
-        <version>0.3.10</version>
+        <version>0.3.11</version>
         <title>Alertify.js</title>
         <authors>Fabien Doiron</authors>
         <owners>sirkirby</owners>
