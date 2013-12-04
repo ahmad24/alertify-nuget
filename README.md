@@ -1,9 +1,11 @@
-alertify-nuget
+Alertify.js Nuget Package
 ==============
 
-nuget package for alertify.js
+https://www.nuget.org/packages/alertify
 
-package version will correspond to the alertify release version. `major.minor.patch`
+    install-package alertify
+
+Package version will correspond to the [alertify](http://fabien-d.github.io/alertify.js/)  project release version. `major.minor.patch`
 
 License
 ---------------------
