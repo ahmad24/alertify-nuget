@@ -1,0 +1,35 @@
+{
+  "name": "alertify-nuget",
+  "version": "0.5.0",
+  "description": "nuget package for alertify.js.",
+  "author": "Chris Kirby",
+  "homepage": "https://github.com/sirkirby/alertify-nuget",
+  "keywords": [
+    "nuget",
+    "file",
+    "upload",
+	"javascript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sirkirby/alertify-nuget.git"
+  },
+  "bugs": "https://github.com/sirkirby/alertify-nuget/issues",
+  "contributors": "https://github.com/sirkirby/alertify-nuget/graphs/contributors",
+  "private": true,
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.githubusercontent.com/sirkirby/alertify-nuget/master/LICENSE.txt"
+    }
+  ],
+  "dependencies": {},
+  "optionalDependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-shell": "~0.6.4",
+    "grunt-nuget": "~0.1.2"
+  }
+}

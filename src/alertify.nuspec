@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>alertify</id>
-        <version>0.3.11</version>
+        <version>0.5.0-rc1</version>
         <title>Alertify.js</title>
         <authors>Fabien Doiron</authors>
         <owners>sirkirby</owners>
@@ -12,11 +12,10 @@
         <description>Alertify is an unobtrusive customizable JavaScript notification system.</description>
         <summary />
         <releaseNotes>https://github.com/fabien-d/alertify.js/wiki/Changeset</releaseNotes>
-        <copyright>Copyright (c) 2012, Fabien Doiron</copyright>
+        <copyright>Copyright (c) 2014, Fabien Doiron</copyright>
         <tags>alerts javascript alertify dialogs dialog</tags>
     </metadata>
     <files>
-        <file src="alertify.bootstrap.css" target="content\Content\alertify\alertify.bootstrap.css" />
         <file src="alertify.core.css" target="content\Content\alertify\alertify.core.css" />
         <file src="alertify.default.css" target="content\Content\alertify\alertify.default.css" />
         <file src="alertify.js" target="content\Scripts\alertify\alertify.js" />
